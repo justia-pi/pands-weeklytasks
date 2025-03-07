@@ -7,14 +7,14 @@ def round_to_one_decimal(number): # Rounds a float to one decimal place
     return round(number, 1)
 
 n = float(input("Please enter a positive number: "))
-def squareRoot(n):
+def sqrt(n):
     
     approx = n/2
-    closer = (approx + n/approx)/2
-    while closer != approx:
-        approx = closer
-        closer = (approx + n/approx)/2
+    next_approx = (approx + n/approx)/2
+    while next_approx != approx:
+        approx = next approx
+        next_approx = (approx + n/approx)/2
     return approx
 
-x = round_to_one_decimal(squareRoot(n))
-print(f"The square root of {n} is aprox. {x}.")
+x = round_to_one_decimal(sqrt(n))
+print(f"The square root of {n} is approx. {x}.")
