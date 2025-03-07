@@ -12,7 +12,7 @@ def sqrt(n):
     approx = n/2
     next_approx = (approx + n/approx)/2
     while next_approx != approx:
-        approx = next approx
+        approx = next_approx
         next_approx = (approx + n/approx)/2
     return approx
 
