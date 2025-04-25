@@ -1,5 +1,5 @@
 # Programming and Scripting
-# pands-weeklytasks
+## pands-weeklytasks
 # by Justyna Pinkowska
 
 ## Overview
@@ -27,6 +27,7 @@ This project contains of 9 small Python programms - weekly tasks, a histogram of
 
 ## Libraries
 import numpy as np
+
 import matplotlib.pyplot as plt
 
 ## Acknowledgement
