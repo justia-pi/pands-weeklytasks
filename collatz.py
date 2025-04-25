@@ -6,9 +6,9 @@
 positive_integer = int(input("Input any positive integer:"))
 print(positive_integer, end=" ")
 
-while positive_integer != 1:
+while positive_integer != 1:   
 
-    if positive_integer % 2 == 0:
+    if positive_integer % 2 == 0: # checks if a given positive_integer is even
         positive_integer = int(positive_integer / 2)
         
     else:
