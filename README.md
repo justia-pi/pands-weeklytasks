@@ -9,16 +9,16 @@ This project contains of 9 small Python programms - weekly tasks, a histogram of
 - .gitgnore
 - README.md
 - accounts.py - program stores 10 character strings, displays only 4 last characters, rest replacers with Xs
-4. accounts2.py - program stores any lenght of character strings, displays only 4 last characters, rest replacers with Xs
-5. bank.py - progranm adds two money amounts in cent and outputs their sum in euros 
-6. collatz.py - program that asks a user to input interger and does some calculation based on the integer being odd or even
-7. es.py - program that reads in a text file and outputs the number of e's it contains (txt file moby.dick.txt)
-8. helloworld.py - program that displays Hello World! 
-9. moby-dick.txt
-10. plot.png 
-11. plottask.py - program thats plots a histogram of a normal distribution ad=nd of the function $h(x)=x^3$
-12. squareroot.py - program that takes a positive floating-point number as input and outputs an approximation of its square root
-13. weekday.py - - program that outputs whether or not today is a weekday
+- accounts2.py - program stores any lenght of character strings, displays only 4 last characters, rest replacers with Xs
+- bank.py - progranm adds two money amounts in cent and outputs their sum in euros 
+- collatz.py - program that asks a user to input interger and does some calculation based on the integer being odd or even
+- es.py - program that reads in a text file and outputs the number of e's it contains (txt file moby.dick.txt)
+- helloworld.py - program that displays Hello World! 
+- moby-dick.txt
+- plot.png 
+- plottask.py - program thats plots a histogram of a normal distribution ad=nd of the function $h(x)=x^3$
+- squareroot.py - program that takes a positive floating-point number as input and outputs an approximation of its square root
+- weekday.py - - program that outputs whether or not today is a weekday
 
 
 ## Dependencies
