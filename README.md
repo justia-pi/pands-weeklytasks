@@ -6,9 +6,9 @@
 This project contains of 9 small Python programms - weekly tasks, a histogram of a normal distribution plot.png and a txt file used for es.py program.
 
 ## Project structure
-1..gitgnore
-2. README.md
-3. accounts.py - program stores 10 character strings, displays only 4 last characters, rest replacers with Xs
+- .gitgnore
+- README.md
+- accounts.py - program stores 10 character strings, displays only 4 last characters, rest replacers with Xs
 4. accounts2.py - program stores any lenght of character strings, displays only 4 last characters, rest replacers with Xs
 5. bank.py - progranm adds two money amounts in cent and outputs their sum in euros 
 6. collatz.py - program that asks a user to input interger and does some calculation based on the integer being odd or even
