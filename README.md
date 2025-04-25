@@ -31,6 +31,9 @@ import matplotlib.pyplot as plt
 
 ## Acknowledgement
 https://www.w3schools.com/python/
+
 https://docs.python.org/3/library/
+
 https://realpython.com/
+
 https://www.tutorialspoint.com/Babylonian-method-to-find-the-square-root
