@@ -2,6 +2,6 @@
 # Author Justyna Pinkowska
 
 accountno = input("Please enter your account number: ")
-
+# Using slicing, starts Xs from the fourth character from the end of the string
 print(f"XXXXXX" + str(accountno[-4:]))
 
