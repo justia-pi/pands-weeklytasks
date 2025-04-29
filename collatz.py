@@ -16,7 +16,5 @@ while positive_integer != 1:
     print(positive_integer, end=" ")
 
 
-     
-
 print() # prints space after each number instead of new line
 
