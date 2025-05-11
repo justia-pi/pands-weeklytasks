@@ -1,6 +1,6 @@
 # Program that takes a positive floating-point number as input and outputs an approximation of its square root.
 # Author: Justyna Pinkowska
-# The Babylonian method
+# The Babylonian method https://blogs.sas.com/content/iml/2016/05/16/babylonian-square-roots.html
 
 def round_to_one_decimal(number): # Rounds a float to one decimal place
     return round(number, 1)
